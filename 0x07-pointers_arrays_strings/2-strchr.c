@@ -1,11 +1,11 @@
 #include "main.h"
 /**
-  *_strchar - function that locates a character in a string
+  *_strchr - function that locates a character in a string
   *@c: input
   *@s: input
   *Return: Always 0
   */
-char *_strchar(char *s, char c)
+char *_strchr(char *s, char c)
 {
 	int i = 0;
 
